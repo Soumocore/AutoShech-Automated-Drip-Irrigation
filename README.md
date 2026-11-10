@@ -29,7 +29,7 @@ Arduino Uno, soil-moisture sensor, 5V relay module, 6–12V water pump (~100 L/h
 Remote monitoring web app, emitter unclogging mechanism, patent application and market research.
 
 ## My role
-[Describe what you personally did, for example design, assembly, testing, soil analysis or reporting.]
+I helped in modifying the code, testing and soil analysis.
 
 ## Team
 Group project by a team of 23 B.Tech Biotechnology students, Adamas University. Team names are omitted from this copy of the report.
